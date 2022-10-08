@@ -1,7 +1,5 @@
 # [Inssagram] - CloneCode Project: backend
 
-이 미 지
-
 
 ## 📢 프로젝트 소개
 Instagram의 몇몇 기능들을 클론 코딩하여 API 서버를 만들었습니다.
